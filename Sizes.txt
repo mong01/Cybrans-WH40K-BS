@@ -1,0 +1,41 @@
+Hunter: same height as an intercessor, 32mm base.
+
+Mantis: about the same height as a heavy intercessor, 50mm base.
+
+Mole: about half the height of an intercessor but wider, 40mm base
+
+Hoplite: same height as a heavy intercessor, 40mm base.
+
+Fire beetle: same height as a gretchin, 25mm base.
+
+Loyalist: crisis battlesuit, 50mm base.
+
+Brick: slightly taller than a paragon warsuit, 50mm base.
+
+Medusa/viper/banger: chimera, no base.
+
+Rhino/wagner: leman russ, no base.
+
+Jester: long as a deffkopta but quite flat, 75x42mm base.
+
+Deceiver: chimera, no base.
+
+Operator: invader atv or tauros, no base.
+
+Dragon fly: caestus assault ram, 120x92mm flying base.
+
+Corsair: nephilim jetfighter, 120x92mm flying base.
+
+Gemini: see above.
+
+Monkeylord: highest point is slightly taller than a gorkanaut/morkanaut, no base.
+
+Soul ripper: main body, not including legs, about the same height as a thunderhawk gunship from highest point to lowest point, 120x92mm flying base.
+
+Megalith: highest point is as tall as highest point on a knight castellans armour, no base.
+
+Soothsayer: about the same height as a hammerfall bunker as flat as possible, no base.
+
+ACU: contemptor dreadnought, 60mm base.
+
+SACU: titan/percival, 50mm base.
